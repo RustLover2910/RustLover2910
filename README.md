@@ -8,5 +8,5 @@ My fav Langs:
 - Python
 - Zig (learning)
 
-Feel free to check out my repos and critize them(I love pain).
+Feel free to check out my repos and criticize them(I love pain).
 
